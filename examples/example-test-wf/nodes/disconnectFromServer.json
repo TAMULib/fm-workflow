@@ -1,0 +1,11 @@
+{
+    "id": "006795ed-c51d-4aa9-b1ba-c0b985fc6259",
+    "name": "Disconnect from Database",
+    "description": "Disconnect from a given database.",
+    "deserializeAs": "DatabaseDisconnectTask",
+    "inputVariables": [],
+    "outputVariable": {},
+    "designation": "example_db",
+    "asyncBefore": true,
+    "asyncAfter": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "",
+  "name": "Run Ruby Script",
+  "description": "Process Ruby Script.",
+  "deserializeAs": "ScriptTask",
+  "scriptFormat": "ruby",
+  "code": "runScript.rb"
+}

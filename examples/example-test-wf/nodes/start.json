@@ -1,0 +1,8 @@
+{
+  "id": "e15d6b40-0c9f-4aa2-8d95-18f7b7883b0d",
+  "name": "Start",
+  "description": "Start of Example Sort Books Workflow.",
+  "type": "MESSAGE_CORRELATION",
+  "deserializeAs": "StartEvent",
+  "expression": "/events/workflow/example-test-wf/start"
+}

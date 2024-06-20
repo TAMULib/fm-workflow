@@ -1,0 +1,6 @@
+{
+  "id": "",
+  "name": "End",
+  "description": "End of Example Ruby Sort Books Workflow.",
+  "deserializeAs": "EndEvent"
+}

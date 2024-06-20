@@ -1,0 +1,27 @@
+{
+  "id": "2065e197-0def-48f4-b44a-70ce09fbc3df",
+  "name": "Example Sort Items Workflow",
+  "description": "An example Workflow using Ruby to sort items alphabetically.",
+  "versionTag": "1.0",
+  "historyTimeToLive": 90,
+  "deploymentId": null,
+  "active": false,
+  "setup": {
+    "asyncBefore": false,
+    "asyncAfter": false
+  },
+  "nodes": [
+    "{{{mod-workflow}}}/startEvent/e15d6b40-0c9f-4aa2-8d95-18f7b7883b0d",
+    "{{{mod-workflow}}}/requestTask/13d179a5-0c64-4963-b646-015e41580561",
+    "{{{mod-workflow}}}/databaseConnectionTask/cba12c6d-10eb-4d21-816a-7a76a800c46d",
+    "{{{mod-workflow}}}/databaseQueryTask/ee448282-8a16-4d4e-bb8e-2ccfaa0f0718",
+    "{{{mod-workflow}}}/databaseDisconnectTask/006795ed-c51d-4aa9-b1ba-c0b985fc6259", 
+    "{{{mod-workflow}}}/scriptTask/cc91cbcb-1f5f-4d3c-9873-0f87d33912f4",
+    "{{{mod-workflow}}}/fileTask/f765410c-4699-47a3-84c9-fae0d2218e16",
+    "{{{mod-workflow}}}/",
+    "{{{mod-workflow}}}/",
+    "{{{mod-workflow}}}/",
+    "{{{mod-workflow}}}/endEvent/"
+  ],
+  "initialContext": {}
+}

@@ -1,0 +1,8 @@
+{
+  "id": " ",
+  "name": "Build Response",
+  "description": "Script for processing the HTTP response.",
+  "deserializeAs": "ScriptTask",
+  "scriptFormat": "ruby",
+  "code": "buildResponse.rb"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "",
+    "name": "Example Sort Books Start Trigger.",
+    "description": "A REST Post end point for the Example Ruby ScriptTask.",
+    "type": "MESSAGE_CORRELATE",
+    "method": "POST",
+    "deserializeAs": "EventTrigger",
+    "pathPattern": "/events/workflow/example-test-wf/start"
+  }

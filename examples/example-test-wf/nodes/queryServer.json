@@ -1,0 +1,16 @@
+{
+  "id": "ee448282-8a16-4d4e-bb8e-2ccfaa0f0718",
+  "name": "Query Database",
+  "description": "Execute the query on the database.",
+  "deserializeAs": "DatabaseQueryTask",
+  "inputVariables": [],
+  "outputVariable": {
+    "key": "exampleQueryResult",
+    "type": "PROCESS"
+  },
+  "designation": "example_db",
+  "query": "{{{exampleQueryItems}}}",
+  "includeHeader": true,
+  "resultType": "JSON",
+  "asyncBefore": true
+}

@@ -1,0 +1,12 @@
+{
+    "id": "cc91cbcb-1f5f-4d3c-9873-0f87d33912f4",
+    "name": "Create Target Variable",
+    "description": "Create Target variable for FileTask.",
+    "deserializeAs": "ScriptTask",
+    "outputVariable":{
+      "key": "exampleFileData",
+      "type": "PROCESS"
+    },
+    "scriptFormat": "ruby",
+    "code": "createTargetVar.rb"
+  }
