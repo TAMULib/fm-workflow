@@ -18,9 +18,8 @@
     "{{{mod-workflow}}}/databaseDisconnectTask/006795ed-c51d-4aa9-b1ba-c0b985fc6259", 
     "{{{mod-workflow}}}/scriptTask/cc91cbcb-1f5f-4d3c-9873-0f87d33912f4",
     "{{{mod-workflow}}}/fileTask/f765410c-4699-47a3-84c9-fae0d2218e16",
-    "{{{mod-workflow}}}/",
-    "{{{mod-workflow}}}/",
-    "{{{mod-workflow}}}/",
+    "{{{mod-workflow}}}/compressFileTask/",
+    "{{{mod-workflow}}}/emailTask/",
     "{{{mod-workflow}}}/endEvent/"
   ],
   "initialContext": {}

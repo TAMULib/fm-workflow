@@ -1,0 +1,13 @@
+{
+    "id": "",
+    "name": "Zip File",
+    "description": "Compress a file using the ZIP format.",
+    "deserializeAs": "CompressFileTask",
+    "inputVariables": [],
+    "outputVariable": {},
+    "source": "{{{exampleFilePath}}}/testFileCreate/{{{exampleFileName}}}",
+    "destination": "{{{exampleFilePath}}}/testFileCreate/{{{exampleFileName}}}.zip",
+    "format": "ZIP",
+    "container": "NONE",
+    "asyncBefore": true
+  }
