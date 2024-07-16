@@ -1,0 +1,16 @@
+{
+  "id": "b68dba47-b9f3-416b-8c8a-fba342834fe6",
+  "name": "Create Table Query",
+  "description": "Execute the query on the database to create table.",
+  "deserializeAs": "DatabaseQueryTask",
+  "inputVariables": [],
+  "outputVariable": {
+    "key": "exampleQueryResult",
+    "type": "PROCESS"
+  },
+  "designation": "example_db",
+  "query": "{{{exampleCreateTableQuery}}}",
+  "includeHeader": true,
+  "resultType": "JSON",
+  "asyncBefore": true
+}

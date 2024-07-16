@@ -1,5 +1,5 @@
 {
-  "id": "",
+  "id": "11172e01-256d-4df7-a239-5178e2d43940",
   "name": "Run Ruby Script",
   "description": "Process Ruby Script.",
   "deserializeAs": "ScriptTask",
