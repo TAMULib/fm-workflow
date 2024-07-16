@@ -1,5 +1,5 @@
 {
-    "id": "",
+    "id": "1f8bdf99-b67a-43fd-9828-0013eaab82c6",
     "name": "Send Email",
     "description": "Send e-mail.",
     "deserializeAs": "EmailTask",

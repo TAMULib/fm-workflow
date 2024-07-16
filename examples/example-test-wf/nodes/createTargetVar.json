@@ -3,6 +3,12 @@
     "name": "Create Target Variable",
     "description": "Create Target variable for FileTask.",
     "deserializeAs": "ScriptTask",
+    "inputVariables": [
+      {
+        "key": "postTitleResponse",
+        "type": "LOCAL"
+      }
+    ],
     "outputVariable":{
       "key": "exampleFileData",
       "type": "PROCESS"

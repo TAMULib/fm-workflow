@@ -9,7 +9,7 @@
     "type": "PROCESS"
   },
   "designation": "example_db",
-  "query": "{{{exampleQueryItems}}}",
+  "query": "{{{exampleCreateTableQueryWithSchema}}}",
   "includeHeader": true,
   "resultType": "JSON",
   "asyncBefore": true

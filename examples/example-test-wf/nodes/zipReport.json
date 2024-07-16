@@ -1,5 +1,5 @@
 {
-    "id": "",
+    "id": "5180304f-7070-46a9-a56d-372c28f4172f",
     "name": "Zip File",
     "description": "Compress a file using the ZIP format.",
     "deserializeAs": "CompressFileTask",
