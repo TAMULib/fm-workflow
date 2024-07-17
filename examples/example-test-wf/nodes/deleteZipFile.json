@@ -1,0 +1,12 @@
+{
+    "id": "899a3816-d655-4222-b5b1-5496f0662e9d",
+    "name": "Delete Zip file",
+    "description": "Delete the zip file",
+    "deserializeAs": "FileTask",
+    "inputVariables": [],
+    "outputVariable": {},
+    "path": "{{{exampleFilePath}}}/testFileCreate/{{{exampleFileName}}}.zip",
+    "op": "DELETE",
+    "asyncBefore": true
+  }
+  

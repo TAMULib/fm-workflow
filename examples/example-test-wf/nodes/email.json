@@ -10,8 +10,9 @@
       }
     ],
     "outputVariable": {},
-    "includeAttachment": false,
-    "mailTo": "${exampleEmailTo}",
+    "includeAttachment": true,
+    "attachmentPath": "{{{exampleFilePath}}}/testFileCreate/{{{exampleFileName}}}.zip",
+    "mailTo": "{{{exampleEmailTo}}}",
     "mailFrom": "{{{exampleEmailFrom}}}",
     "mailMarkup": "<p> Text for Email </p>",
     "mailSubject": "Example Email subject",

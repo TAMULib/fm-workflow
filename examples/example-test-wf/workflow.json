@@ -17,7 +17,16 @@
     "{{{mod-workflow}}}/scriptTask/11172e01-256d-4df7-a239-5178e2d43940",
     "{{{mod-workflow}}}/databaseConnectionTask/cba12c6d-10eb-4d21-816a-7a76a800c46d",
     "{{{mod-workflow}}}/databaseQueryTask/ee448282-8a16-4d4e-bb8e-2ccfaa0f0718",
+    "{{{mod-workflow}}}/databaseQueryTask/b68dba47-b9f3-416b-8c8a-fba342834fe6",
+    "{{{mod-workflow}}}/databaseQueryTask/13861079-acf1-4c02-9cd7-d3e03b191a43",
+    "{{{mod-workflow}}}/databaseQueryTask/f4a13bf0-a276-4b1b-b2ba-67465fb8c0bf",
+    "{{{mod-workflow}}}/databaseQueryTask/a858ae14-7912-421f-be4c-fd7ef1be0ac4",
+    "{{{mod-workflow}}}/databaseQueryTask/bc13841b-1e64-46a3-9e5f-20bdf7362994",
     "{{{mod-workflow}}}/databaseDisconnectTask/006795ed-c51d-4aa9-b1ba-c0b985fc6259",
+    "{{{mod-workflow}}}/compressFileTask/5180304f-7070-46a9-a56d-372c28f4172f",
+    "{{{mod-workflow}}}/emailTask/1f8bdf99-b67a-43fd-9828-0013eaab82c6",
+    "{{{mod-workflow}}}/fileTask/d10ab263-3fab-49b5-8019-cddf1af5eeaf",
+    "{{{mod-workflow}}}/fileTask/899a3816-d655-4222-b5b1-5496f0662e9d",
     "{{{mod-workflow}}}/endEvent/3c4b83b4-0cd9-49ed-81f2-19cdb82a75ff"
   ],
   "initialContext": {}

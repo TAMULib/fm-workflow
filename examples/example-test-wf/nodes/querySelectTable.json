@@ -1,0 +1,17 @@
+{
+  "id": "f4a13bf0-a276-4b1b-b2ba-67465fb8c0bf",
+  "name": "Select Query",
+  "description": "Execute the query on the database to select from table.",
+  "deserializeAs": "DatabaseQueryTask",
+  "inputVariables": [],
+  "outputVariable": {
+    "key": "exampleQueryResult",
+    "type": "PROCESS"
+  },
+  "designation": "example_db",
+  "query": "{{{exampleSelectQuery}}}",
+  "outputPath": "{{{exampleFilePath}}}/testFileCreate/{{{exampleFileName}}}",
+  "includeHeader": true,
+  "resultType": "CSV",
+  "asyncBefore": true
+}

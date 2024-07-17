@@ -1,0 +1,16 @@
+{
+  "id": "a858ae14-7912-421f-be4c-fd7ef1be0ac4",
+  "name": "Drop Table Query",
+  "description": "Execute the query on the database to drop table.",
+  "deserializeAs": "DatabaseQueryTask",
+  "inputVariables": [],
+  "outputVariable": {
+    "key": "exampleQueryResult",
+    "type": "PROCESS"
+  },
+  "designation": "example_db",
+  "query": "DROP table tamu_workflow_examples.example_users_table",
+  "includeHeader": true,
+  "resultType": "JSON",
+  "asyncBefore": true
+}

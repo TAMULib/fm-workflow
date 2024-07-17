@@ -1,0 +1,12 @@
+{
+    "id": "d10ab263-3fab-49b5-8019-cddf1af5eeaf",
+    "name": "Delete file",
+    "description": "Delete the file",
+    "deserializeAs": "FileTask",
+    "inputVariables": [],
+    "outputVariable": {},
+    "path": "{{{exampleFilePath}}}/testFileCreate/{{{exampleFileName}}}",
+    "op": "DELETE",
+    "asyncBefore": true
+  }
+  

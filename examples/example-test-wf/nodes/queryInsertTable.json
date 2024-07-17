@@ -1,0 +1,19 @@
+{
+  "id": "13861079-acf1-4c02-9cd7-d3e03b191a43",
+  "name": "Insert Into Table Query",
+  "description": "Execute the query on the database to insert into table.",
+  "deserializeAs": "DatabaseQueryTask",
+  "inputVariables": [{
+    "key": "queryWrapper",
+    "type": "LOCAL"
+  }],
+  "outputVariable": {
+    "key": "exampleQueryResult",
+    "type": "PROCESS"
+  },
+  "designation": "example_db",
+  "query": "${queryWrapper.prop('insertQuery').stringValue()}",
+  "includeHeader": true,
+  "resultType": "JSON",
+  "asyncBefore": true
+}
