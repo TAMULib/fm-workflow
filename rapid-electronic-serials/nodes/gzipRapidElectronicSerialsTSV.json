@@ -18,7 +18,7 @@
     "type": "PROCESS"
   },
   "source": "${sfxFile}",
-  "destination": "/mnt/workflows/${tenantId}/rapid/rapid_electronic_serials.gz",
+  "destination": "/mnt/workflows/${tenantId}/rapid/rapid_electronic_serials.txt.gz",
   "format": "GZIP",
   "container": "NONE",
   "asyncBefore": true
